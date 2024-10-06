@@ -1,0 +1,32 @@
+# Don't change this! Version used to track needed updates.
+version = 0
+# If players should lose all stats on death
+hardcoreMode = false
+
+# Level scaling formula inputs
+
+[scaling]
+power = 2.07
+scale = 0.52
+base = 80
+# If the required amount should be the requirements from previous levels combined + new one instead of just solving once
+isCumulative = false
+# The maximum level allowed
+maxLevel = 50
+
+# Settings for the anticheat implementation
+
+[antiCheat]
+# Prevent duplicate XP from breaking blocks in the same location
+blockBreakPos = true
+# How many ticks before you gain XP from breaking a block from a location again
+blockBreakDelay = 6000
+
+# Debug logging config
+
+[debug]
+logXpGain = false
+logBrokenBlocks = false
+logRawOps = false
+logRawWrite = false
+logAntiCheatPrevention = false

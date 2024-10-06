@@ -1,0 +1,34 @@
+# Don't change this! Version used to track needed updates.
+version = 0
+
+[magic]
+enableLv25Buff = true
+enableLv50Buff = true
+
+[melee]
+# How much attack damage is gained per level
+attackDamagePerLevel = 0.08
+
+[fishing]
+enableLv25Buff = true
+enableLv50Buff = true
+
+[ranged]
+enableLv25Buff = true
+enableLv50Buff = true
+
+[defense]
+# Will only grant HP every X levels
+everyXLevels = 2
+# How much HP to grant on trigger
+addAmount = 1
+# Minimum level before you start getting HP (Exclusive)
+afterLevel = 10
+
+[mining]
+# At what Y level does the lv50 effect trigger?
+effectLevelTrigger = 20
+
+[farming]
+enableLv25Buff = true
+enableLv50Buff = true
