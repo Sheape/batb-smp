@@ -8979,16 +8979,21 @@
     "criteria": {
       "minecraft:cold_ocean": "2024-10-06 07:46:04 +0000",
       "minecraft:savanna_plateau": "2024-10-06 09:47:34 +0000",
-      "minecraft:eroded_badlands": "2024-10-06 09:57:12 +0000",
       "minecraft:beach": "2024-10-06 07:46:10 +0000",
-      "minecraft:desert": "2024-10-06 09:58:21 +0000",
+      "minecraft:old_growth_pine_taiga": "2024-10-12 17:36:21 +0000",
       "minecraft:forest": "2024-10-06 07:47:05 +0000",
       "minecraft:taiga": "2024-10-06 07:45:47 +0000",
-      "minecraft:deep_dark": "2024-10-06 09:43:45 +0000",
-      "minecraft:ocean": "2024-10-06 07:47:16 +0000",
+      "minecraft:sparse_jungle": "2024-10-12 18:18:31 +0000",
       "minecraft:river": "2024-10-06 07:45:13 +0000",
       "minecraft:lukewarm_ocean": "2024-10-06 09:29:58 +0000",
-      "minecraft:savanna": "2024-10-06 08:12:39 +0000"
+      "minecraft:old_growth_birch_forest": "2024-10-12 17:44:16 +0000",
+      "minecraft:eroded_badlands": "2024-10-06 09:57:12 +0000",
+      "minecraft:desert": "2024-10-06 09:58:21 +0000",
+      "minecraft:deep_dark": "2024-10-06 09:43:45 +0000",
+      "minecraft:ocean": "2024-10-06 07:47:16 +0000",
+      "minecraft:jungle": "2024-10-12 18:59:05 +0000",
+      "minecraft:savanna": "2024-10-06 08:12:39 +0000",
+      "minecraft:plains": "2024-10-12 18:26:14 +0000"
     },
     "done": false
   },
@@ -9030,6 +9035,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2024-10-12 17:24:04 +0000",
       "bread": "2024-10-06 07:57:56 +0000",
       "cooked_chicken": "2024-10-06 08:17:57 +0000",
       "cooked_beef": "2024-10-06 09:06:44 +0000",
@@ -9253,6 +9259,54 @@
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2024-10-06 11:30:04 +0000"
+    },
+    "done": true
+  },
+  "vanilla_refresh:biome/old_growth_pine_taiga": {
+    "criteria": {
+      "requirement": "2024-10-12 17:36:20 +0000"
+    },
+    "done": true
+  },
+  "vanilla_refresh:biome/birch_forest": {
+    "criteria": {
+      "requirement": "2024-10-12 17:44:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "cod": "2024-10-12 18:14:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "minecraft:black": "2024-10-12 18:18:13 +0000"
+    },
+    "done": false
+  },
+  "vanilla_refresh:biome/jungle": {
+    "criteria": {
+      "requirement": "2024-10-12 18:18:30 +0000"
+    },
+    "done": true
+  },
+  "vanilla_refresh:biome/plains": {
+    "criteria": {
+      "requirement": "2024-10-12 18:26:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2024-10-12 18:45:13 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "nether_wart": "2024-10-12 19:30:55 +0000"
     },
     "done": true
   },

@@ -1,4 +1,100 @@
 {
+  "vanillatweaks:root": {
+    "criteria": {
+      "tick": "2024-10-06 07:25:18 +0000"
+    },
+    "done": true
+  },
+  "armor_statues:enable": {
+    "criteria": {
+      "tick": "2024-10-06 07:25:18 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:multiplayer_sleep": {
+    "criteria": {
+      "tick": "2024-10-06 07:25:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-10-06 07:25:18 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:unlock_all_recipes": {
+    "criteria": {
+      "tick": "2024-10-06 07:25:18 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:custom_nether_portals": {
+    "criteria": {
+      "tick": "2024-10-06 07:25:18 +0000"
+    },
+    "done": true
+  },
+  "graves:check_death_markers_later_in_tick": {
+    "criteria": {
+      "tick": "2024-10-06 07:25:18 +0000"
+    },
+    "done": true
+  },
+  "vanilla_refresh:player/end_teleport": {
+    "criteria": {
+      "s3": "2024-10-06 07:25:18 +0000"
+    },
+    "done": false
+  },
+  "vanillatweaks:mini_blocks": {
+    "criteria": {
+      "tick": "2024-10-06 07:25:18 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:player_head_drops": {
+    "criteria": {
+      "tick": "2024-10-06 07:25:18 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:afk_display": {
+    "criteria": {
+      "tick": "2024-10-06 07:25:18 +0000"
+    },
+    "done": true
+  },
+  "vanilla_refresh:player/tick": {
+    "criteria": {
+      "s": "2024-10-06 07:25:18 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:more_effective_tools": {
+    "criteria": {
+      "tick": "2024-10-06 07:25:18 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:armor_statues": {
+    "criteria": {
+      "tick": "2024-10-06 07:25:18 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:more_mob_heads": {
+    "criteria": {
+      "tick": "2024-10-06 07:25:18 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:graves": {
+    "criteria": {
+      "tick": "2024-10-06 07:25:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/waxed_cut_copper_stairs_from_honeycomb": {
     "criteria": {
       "has_the_recipe": "2024-10-06 07:25:21 +0000"
@@ -14,12 +110,6 @@
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_the_recipe": "2024-10-06 07:25:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/obtain_crying_obsidian": {
-    "criteria": {
-      "crying_obsidian": "2024-10-06 11:06:04 +0000"
     },
     "done": true
   },
@@ -227,12 +317,6 @@
     },
     "done": true
   },
-  "vanillatweaks:root": {
-    "criteria": {
-      "tick": "2024-10-06 07:25:18 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_the_recipe": "2024-10-06 07:25:21 +0000"
@@ -278,12 +362,6 @@
   "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_brick_stonecutting": {
     "criteria": {
       "has_the_recipe": "2024-10-06 07:25:21 +0000"
-    },
-    "done": true
-  },
-  "vanilla_refresh:player/hurt": {
-    "criteria": {
-      "requirement": "2024-10-06 11:13:39 +0000"
     },
     "done": true
   },
@@ -356,12 +434,6 @@
   "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_the_recipe": "2024-10-06 07:25:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/obtain_armor": {
-    "criteria": {
-      "iron_helmet": "2024-10-06 09:59:39 +0000"
     },
     "done": true
   },
@@ -605,12 +677,6 @@
     },
     "done": true
   },
-  "vanilla_refresh:biome/terralith/highlands": {
-    "criteria": {
-      "requirement": "2024-10-06 07:34:22 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_the_recipe": "2024-10-06 07:25:21 +0000"
@@ -674,12 +740,6 @@
   "minecraft:recipes/redstone/acacia_pressure_plate": {
     "criteria": {
       "has_the_recipe": "2024-10-06 07:25:21 +0000"
-    },
-    "done": true
-  },
-  "armor_statues:enable": {
-    "criteria": {
-      "tick": "2024-10-06 07:25:18 +0000"
     },
     "done": true
   },
@@ -764,12 +824,6 @@
   "mini_blocks:recipes/cherry_leaves": {
     "criteria": {
       "has_the_recipe": "2024-10-06 07:25:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/deflect_arrow": {
-    "criteria": {
-      "deflected_projectile": "2024-10-06 11:00:41 +0000"
     },
     "done": true
   },
@@ -1007,13 +1061,6 @@
     },
     "done": true
   },
-  "minecraft:nether/explore_nether": {
-    "criteria": {
-      "minecraft:nether_wastes": "2024-10-06 10:56:12 +0000",
-      "minecraft:soul_sand_valley": "2024-10-06 10:53:45 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/building_blocks/prismarine": {
     "criteria": {
       "has_the_recipe": "2024-10-06 07:25:21 +0000"
@@ -1083,12 +1130,6 @@
   "minecraft:recipes/decorations/blue_candle": {
     "criteria": {
       "has_the_recipe": "2024-10-06 07:25:21 +0000"
-    },
-    "done": true
-  },
-  "vanilla_refresh:biome/terralith/highland_forest": {
-    "criteria": {
-      "requirement": "2024-10-06 07:25:28 +0000"
     },
     "done": true
   },
@@ -1338,12 +1379,6 @@
     },
     "done": true
   },
-  "minecraft:story/mine_stone": {
-    "criteria": {
-      "get_stone": "2024-10-06 07:26:50 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_slab_from_waxed_oxidized_cut_copper_stonecutting": {
     "criteria": {
       "has_the_recipe": "2024-10-06 07:25:21 +0000"
@@ -1500,12 +1535,6 @@
     },
     "done": true
   },
-  "minecraft:story/enter_the_nether": {
-    "criteria": {
-      "entered_nether": "2024-10-06 10:53:44 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/red_glazed_terracotta": {
     "criteria": {
       "has_the_recipe": "2024-10-06 07:25:21 +0000"
@@ -1593,12 +1622,6 @@
   "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
     "criteria": {
       "has_the_recipe": "2024-10-06 07:25:21 +0000"
-    },
-    "done": true
-  },
-  "vanilla_refresh:biome/savanna": {
-    "criteria": {
-      "requirement": "2024-10-06 07:37:07 +0000"
     },
     "done": true
   },
@@ -1932,12 +1955,6 @@
     },
     "done": true
   },
-  "minecraft:nether/obtain_blaze_rod": {
-    "criteria": {
-      "blaze_rod": "2024-10-06 11:01:10 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_the_recipe": "2024-10-06 07:25:21 +0000"
@@ -1983,12 +2000,6 @@
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_the_recipe": "2024-10-06 07:25:21 +0000"
-    },
-    "done": true
-  },
-  "vanillatweaks:multiplayer_sleep": {
-    "criteria": {
-      "tick": "2024-10-06 07:25:18 +0000"
     },
     "done": true
   },
@@ -2049,12 +2060,6 @@
   "minecraft:recipes/building_blocks/smooth_red_sandstone_slab": {
     "criteria": {
       "has_the_recipe": "2024-10-06 07:25:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/smelt_iron": {
-    "criteria": {
-      "iron": "2024-10-06 08:44:04 +0000"
     },
     "done": true
   },
@@ -2178,12 +2183,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/crafting_table": {
-    "criteria": {
-      "unlock_right_away": "2024-10-06 07:25:18 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
     "criteria": {
       "has_the_recipe": "2024-10-06 07:25:21 +0000"
@@ -2205,12 +2204,6 @@
   "minecraft:recipes/decorations/mud_brick_wall": {
     "criteria": {
       "has_the_recipe": "2024-10-06 07:25:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/shiny_gear": {
-    "criteria": {
-      "diamond_boots": "2024-10-06 10:01:45 +0000"
     },
     "done": true
   },
@@ -2253,12 +2246,6 @@
   "minecraft:recipes/redstone/crimson_pressure_plate": {
     "criteria": {
       "has_the_recipe": "2024-10-06 07:25:21 +0000"
-    },
-    "done": true
-  },
-  "vanillatweaks:unlock_all_recipes": {
-    "criteria": {
-      "tick": "2024-10-06 07:25:18 +0000"
     },
     "done": true
   },
@@ -2496,12 +2483,6 @@
     },
     "done": true
   },
-  "minecraft:adventure/sleep_in_bed": {
-    "criteria": {
-      "slept_in_bed": "2024-10-06 07:33:00 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
     "criteria": {
       "has_the_recipe": "2024-10-06 07:25:21 +0000"
@@ -2585,17 +2566,6 @@
       "has_the_recipe": "2024-10-06 07:25:21 +0000"
     },
     "done": true
-  },
-  "minecraft:adventure/kill_all_mobs": {
-    "criteria": {
-      "minecraft:blaze": "2024-10-06 11:01:10 +0000",
-      "minecraft:skeleton": "2024-10-06 09:21:24 +0000",
-      "minecraft:piglin": "2024-10-06 11:21:51 +0000",
-      "minecraft:piglin_brute": "2024-10-06 11:09:16 +0000",
-      "minecraft:zombie": "2024-10-06 09:46:12 +0000",
-      "minecraft:hoglin": "2024-10-06 11:09:40 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/decorations/brown_glazed_terracotta": {
     "criteria": {
@@ -2945,12 +2915,6 @@
     },
     "done": true
   },
-  "vanillatweaks:custom_nether_portals": {
-    "criteria": {
-      "tick": "2024-10-06 07:25:18 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/prismarine_brick_slab_from_prismarine_stonecutting": {
     "criteria": {
       "has_the_recipe": "2024-10-06 07:25:21 +0000"
@@ -3038,12 +3002,6 @@
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_the_recipe": "2024-10-06 07:25:21 +0000"
-    },
-    "done": true
-  },
-  "graves:check_death_markers_later_in_tick": {
-    "criteria": {
-      "tick": "2024-10-06 07:25:18 +0000"
     },
     "done": true
   },
@@ -3605,12 +3563,6 @@
     },
     "done": true
   },
-  "vanilla_refresh:player/end_teleport": {
-    "criteria": {
-      "s3": "2024-10-06 07:25:18 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/transportation/oak_chest_boat": {
     "criteria": {
       "has_the_recipe": "2024-10-06 07:25:21 +0000"
@@ -3674,12 +3626,6 @@
   "minecraft:recipes/decorations/cyan_carpet": {
     "criteria": {
       "has_the_recipe": "2024-10-06 07:25:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/root": {
-    "criteria": {
-      "consumed_item": "2024-10-06 07:31:41 +0000"
     },
     "done": true
   },
@@ -3812,12 +3758,6 @@
   "minecraft:recipes/building_blocks/blue_ice": {
     "criteria": {
       "has_the_recipe": "2024-10-06 07:25:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/trade": {
-    "criteria": {
-      "traded": "2024-10-06 09:24:56 +0000"
     },
     "done": true
   },
@@ -3968,12 +3908,6 @@
   "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_the_recipe": "2024-10-06 07:25:21 +0000"
-    },
-    "done": true
-  },
-  "vanillatweaks:mini_blocks": {
-    "criteria": {
-      "tick": "2024-10-06 07:25:18 +0000"
     },
     "done": true
   },
@@ -4703,12 +4637,6 @@
     },
     "done": true
   },
-  "minecraft:nether/distract_piglin": {
-    "criteria": {
-      "distract_piglin": "2024-10-06 11:18:23 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2024-10-06 07:25:21 +0000"
@@ -4913,12 +4841,6 @@
     },
     "done": true
   },
-  "vanilla_refresh:biome/taiga": {
-    "criteria": {
-      "requirement": "2024-10-06 09:37:10 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/waxed_weathered_copper_trapdoor_from_honeycomb": {
     "criteria": {
       "has_the_recipe": "2024-10-06 07:25:21 +0000"
@@ -4970,12 +4892,6 @@
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_the_recipe": "2024-10-06 07:25:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/lava_bucket": {
-    "criteria": {
-      "lava_bucket": "2024-10-06 08:52:24 +0000"
     },
     "done": true
   },
@@ -5066,12 +4982,6 @@
   "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_the_recipe": "2024-10-06 07:25:21 +0000"
-    },
-    "done": true
-  },
-  "vanillatweaks:player_head_drops": {
-    "criteria": {
-      "tick": "2024-10-06 07:25:18 +0000"
     },
     "done": true
   },
@@ -5450,12 +5360,6 @@
   "minecraft:recipes/decorations/polished_tuff_wall_from_tuff_stonecutting": {
     "criteria": {
       "has_the_recipe": "2024-10-06 07:25:21 +0000"
-    },
-    "done": true
-  },
-  "vanillatweaks:afk_display": {
-    "criteria": {
-      "tick": "2024-10-06 07:25:18 +0000"
     },
     "done": true
   },
@@ -5921,12 +5825,6 @@
     },
     "done": true
   },
-  "minecraft:nether/root": {
-    "criteria": {
-      "entered_nether": "2024-10-06 10:53:44 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/tuff_brick_wall_from_tuff_bricks_stonecutting": {
     "criteria": {
       "has_the_recipe": "2024-10-06 07:25:21 +0000"
@@ -6383,12 +6281,6 @@
     },
     "done": true
   },
-  "minecraft:story/upgrade_tools": {
-    "criteria": {
-      "stone_pickaxe": "2024-10-06 07:27:34 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_the_recipe": "2024-10-06 07:25:21 +0000"
@@ -6593,12 +6485,6 @@
     },
     "done": true
   },
-  "vanilla_refresh:location/the_nether": {
-    "criteria": {
-      "requirement": "2024-10-06 10:53:44 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2024-10-06 07:25:21 +0000"
@@ -6620,12 +6506,6 @@
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_the_recipe": "2024-10-06 07:25:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/form_obsidian": {
-    "criteria": {
-      "obsidian": "2024-10-06 11:18:42 +0000"
     },
     "done": true
   },
@@ -6665,12 +6545,6 @@
     },
     "done": true
   },
-  "vanilla_refresh:player/tick": {
-    "criteria": {
-      "s": "2024-10-06 07:25:18 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_the_recipe": "2024-10-06 07:25:21 +0000"
@@ -6692,12 +6566,6 @@
   "minecraft:recipes/building_blocks/purpur_block": {
     "criteria": {
       "has_the_recipe": "2024-10-06 07:25:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/loot_bastion": {
-    "criteria": {
-      "loot_bastion_other": "2024-10-06 11:05:57 +0000"
     },
     "done": true
   },
@@ -7187,12 +7055,6 @@
     },
     "done": true
   },
-  "vanilla_refresh:biome/nether/nether_wastes": {
-    "criteria": {
-      "requirement": "2024-10-06 10:56:11 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_the_recipe": "2024-10-06 07:25:21 +0000"
@@ -7250,12 +7112,6 @@
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_the_recipe": "2024-10-06 07:25:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/root": {
-    "criteria": {
-      "killed_something": "2024-10-06 07:28:17 +0000"
     },
     "done": true
   },
@@ -7328,12 +7184,6 @@
   "minecraft:recipes/decorations/dark_oak_hanging_sign": {
     "criteria": {
       "has_the_recipe": "2024-10-06 07:25:21 +0000"
-    },
-    "done": true
-  },
-  "vanillatweaks:more_effective_tools": {
-    "criteria": {
-      "tick": "2024-10-06 07:25:18 +0000"
     },
     "done": true
   },
@@ -7685,12 +7535,6 @@
     },
     "done": true
   },
-  "vanilla_refresh:biome/nether/soul_sand_valley": {
-    "criteria": {
-      "requirement": "2024-10-06 10:53:50 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_the_recipe": "2024-10-06 07:25:21 +0000"
@@ -7811,12 +7655,6 @@
     },
     "done": true
   },
-  "minecraft:adventure/kill_a_mob": {
-    "criteria": {
-      "minecraft:skeleton": "2024-10-06 09:21:24 +0000"
-    },
-    "done": true
-  },
   "mini_blocks:recipes/chiseled_polished_blackstone": {
     "criteria": {
       "has_the_recipe": "2024-10-06 07:25:21 +0000"
@@ -7858,16 +7696,6 @@
       "has_the_recipe": "2024-10-06 07:25:21 +0000"
     },
     "done": true
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:beach": "2024-10-06 08:43:03 +0000",
-      "minecraft:forest": "2024-10-06 07:35:04 +0000",
-      "minecraft:taiga": "2024-10-06 09:37:10 +0000",
-      "minecraft:river": "2024-10-06 07:34:46 +0000",
-      "minecraft:savanna": "2024-10-06 08:42:53 +0000"
-    },
-    "done": false
   },
   "mini_blocks:recipes/grass_block": {
     "criteria": {
@@ -7920,18 +7748,6 @@
   "mini_blocks:recipes/cherry_log": {
     "criteria": {
       "has_the_recipe": "2024-10-06 07:25:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/plant_seed": {
-    "criteria": {
-      "nether_wart": "2024-10-06 11:30:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/find_bastion": {
-    "criteria": {
-      "bastion": "2024-10-06 11:05:33 +0000"
     },
     "done": true
   },
@@ -8205,12 +8021,6 @@
     },
     "done": true
   },
-  "vanillatweaks:armor_statues": {
-    "criteria": {
-      "tick": "2024-10-06 07:25:18 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/tuff_bricks": {
     "criteria": {
       "has_the_recipe": "2024-10-06 07:25:21 +0000"
@@ -8276,15 +8086,6 @@
       "has_the_recipe": "2024-10-06 07:25:21 +0000"
     },
     "done": true
-  },
-  "minecraft:husbandry/balanced_diet": {
-    "criteria": {
-      "bread": "2024-10-06 09:01:52 +0000",
-      "cooked_chicken": "2024-10-06 07:38:59 +0000",
-      "sweet_berries": "2024-10-06 07:49:31 +0000",
-      "cooked_beef": "2024-10-06 07:31:41 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/building_blocks/gray_terracotta": {
     "criteria": {
@@ -8520,12 +8321,6 @@
     },
     "done": true
   },
-  "vanilla_refresh:biome/forest": {
-    "criteria": {
-      "requirement": "2024-10-06 07:35:44 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_the_recipe": "2024-10-06 07:25:21 +0000"
@@ -8730,12 +8525,6 @@
     },
     "done": true
   },
-  "minecraft:nether/find_fortress": {
-    "criteria": {
-      "fortress": "2024-10-06 10:56:46 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/emerald_from_blasting_deepslate_emerald_ore": {
     "criteria": {
       "has_the_recipe": "2024-10-06 07:25:21 +0000"
@@ -8763,12 +8552,6 @@
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_the_recipe": "2024-10-06 07:25:21 +0000"
-    },
-    "done": true
-  },
-  "vanillatweaks:more_mob_heads": {
-    "criteria": {
-      "tick": "2024-10-06 07:25:18 +0000"
     },
     "done": true
   },
@@ -8886,12 +8669,6 @@
     },
     "done": true
   },
-  "minecraft:story/root": {
-    "criteria": {
-      "crafting_table": "2024-10-06 07:26:27 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/slime_ball": {
     "criteria": {
       "has_the_recipe": "2024-10-06 07:25:21 +0000"
@@ -8961,12 +8738,6 @@
   "minecraft:recipes/decorations/light_blue_candle": {
     "criteria": {
       "has_the_recipe": "2024-10-06 07:25:21 +0000"
-    },
-    "done": true
-  },
-  "vanillatweaks:graves": {
-    "criteria": {
-      "tick": "2024-10-06 07:25:18 +0000"
     },
     "done": true
   },
@@ -9189,6 +8960,251 @@
   "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
       "has_the_recipe": "2024-10-06 07:25:21 +0000"
+    },
+    "done": true
+  },
+  "vanilla_refresh:biome/terralith/highland_forest": {
+    "criteria": {
+      "requirement": "2024-10-06 07:25:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2024-10-06 07:26:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2024-10-06 07:26:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2024-10-06 07:27:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2024-10-06 07:28:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-10-06 07:31:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_porkchop": "2024-10-12 19:06:20 +0000",
+      "bread": "2024-10-06 09:01:52 +0000",
+      "cooked_chicken": "2024-10-06 07:38:59 +0000",
+      "sweet_berries": "2024-10-06 07:49:31 +0000",
+      "cooked_beef": "2024-10-06 07:31:41 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-10-06 07:33:00 +0000"
+    },
+    "done": true
+  },
+  "vanilla_refresh:biome/terralith/highlands": {
+    "criteria": {
+      "requirement": "2024-10-06 07:34:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:beach": "2024-10-06 08:43:03 +0000",
+      "minecraft:forest": "2024-10-06 07:35:04 +0000",
+      "minecraft:taiga": "2024-10-06 09:37:10 +0000",
+      "minecraft:river": "2024-10-06 07:34:46 +0000",
+      "minecraft:lush_caves": "2024-10-12 18:29:17 +0000",
+      "minecraft:savanna": "2024-10-06 08:42:53 +0000"
+    },
+    "done": false
+  },
+  "vanilla_refresh:biome/forest": {
+    "criteria": {
+      "requirement": "2024-10-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "vanilla_refresh:biome/savanna": {
+    "criteria": {
+      "requirement": "2024-10-06 07:37:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2024-10-06 08:44:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2024-10-06 08:52:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:blaze": "2024-10-06 11:01:10 +0000",
+      "minecraft:skeleton": "2024-10-06 09:21:24 +0000",
+      "minecraft:piglin": "2024-10-06 11:21:51 +0000",
+      "minecraft:enderman": "2024-10-12 19:06:11 +0000",
+      "minecraft:piglin_brute": "2024-10-06 11:09:16 +0000",
+      "minecraft:zombie": "2024-10-06 09:46:12 +0000",
+      "minecraft:ghast": "2024-10-12 19:11:08 +0000",
+      "minecraft:hoglin": "2024-10-06 11:09:40 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:skeleton": "2024-10-06 09:21:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2024-10-06 09:24:56 +0000"
+    },
+    "done": true
+  },
+  "vanilla_refresh:biome/taiga": {
+    "criteria": {
+      "requirement": "2024-10-06 09:37:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2024-10-06 09:59:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2024-10-06 10:01:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-10-06 10:53:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-10-06 10:53:44 +0000"
+    },
+    "done": true
+  },
+  "vanilla_refresh:location/the_nether": {
+    "criteria": {
+      "requirement": "2024-10-06 10:53:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2024-10-06 10:56:12 +0000",
+      "minecraft:soul_sand_valley": "2024-10-06 10:53:45 +0000"
+    },
+    "done": false
+  },
+  "vanilla_refresh:biome/nether/soul_sand_valley": {
+    "criteria": {
+      "requirement": "2024-10-06 10:53:50 +0000"
+    },
+    "done": true
+  },
+  "vanilla_refresh:biome/nether/nether_wastes": {
+    "criteria": {
+      "requirement": "2024-10-06 10:56:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2024-10-06 10:56:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-10-06 11:00:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2024-10-06 11:01:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2024-10-06 11:05:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2024-10-06 11:05:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2024-10-06 11:06:04 +0000"
+    },
+    "done": true
+  },
+  "vanilla_refresh:player/hurt": {
+    "criteria": {
+      "requirement": "2024-10-06 11:13:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/distract_piglin": {
+    "criteria": {
+      "distract_piglin": "2024-10-06 11:18:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-10-06 11:18:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "nether_wart": "2024-10-06 11:30:31 +0000"
+    },
+    "done": true
+  },
+  "vanilla_refresh:biome/lush_caves": {
+    "criteria": {
+      "requirement": "2024-10-12 18:29:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2024-10-12 19:11:08 +0000"
     },
     "done": true
   },
