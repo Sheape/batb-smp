@@ -1,4 +1,4 @@
 #!/usr/bin/bash
-MEMORY=4G
+MEMORY=8G
 
 java -Xmx$MEMORY -jar fabric-server.jar nogui
